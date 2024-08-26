@@ -1,0 +1,36 @@
+.signin-container {
+    text-align: center;
+    padding: 50px;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .signin-header {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .signin-description {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  .signin-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4285F4;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .signin-button:hover {
+    background-color: #357ae8;
+  }
+  
+  .signin-image {
+    margin: 20px auto;
+    display: block;
+  }
+  
